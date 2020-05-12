@@ -1,0 +1,9 @@
+class flujos{
+    ejemploBuffer(){
+
+    }
+
+    ejemploStream(){
+        
+    }
+}

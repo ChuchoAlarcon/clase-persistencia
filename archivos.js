@@ -1,0 +1,5 @@
+class archivos{
+    ejemploLectura(){
+        
+    }
+}
